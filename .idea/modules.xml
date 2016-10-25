@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastdemo/broadcastdemo.iml" filepath="$PROJECT_DIR$/broadcastdemo/broadcastdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatordemo/calculatordemo.iml" filepath="$PROJECT_DIR$/calculatordemo/calculatordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindemo/logindemo.iml" filepath="$PROJECT_DIR$/logindemo/logindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lrucachedemo/lrucachedemo.iml" filepath="$PROJECT_DIR$/lrucachedemo/lrucachedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permissiondemofor6/permissiondemofor6.iml" filepath="$PROJECT_DIR$/permissiondemofor6/permissiondemofor6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedemo/servicedemo.iml" filepath="$PROJECT_DIR$/servicedemo/servicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleydemo/volleydemo.iml" filepath="$PROJECT_DIR$/volleydemo/volleydemo.iml" />
+    </modules>
+  </component>
+</project>

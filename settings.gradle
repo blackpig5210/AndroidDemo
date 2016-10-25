@@ -1,0 +1,1 @@
+include ':app', ':calculatordemo', ':servicedemo', ':broadcastdemo', ':logindemo', ':logindemo', ':lrucachedemo', ':permissiondemofor6', ':volleydemo'
